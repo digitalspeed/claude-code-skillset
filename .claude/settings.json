@@ -1,6 +1,7 @@
 {
   "enabledPlugins": {
     "document-skills@anthropic-agent-skills": true,
-    "paper-desktop@paper": true
+    "paper-desktop@paper": true,
+    "figma@claude-plugins-official": true
   }
 }
