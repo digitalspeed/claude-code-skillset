@@ -1,5 +1,8 @@
 {
   "enabledPlugins": {
     "sanity@claude-plugins-official": false
-  }
+  },
+  "enabledMcpjsonServers": [
+    "excalidraw"
+  ]
 }

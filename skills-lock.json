@@ -156,6 +156,12 @@
       "sourceType": "github",
       "computedHash": "f3bc47f890f42a44db1007ab390709ec368e4b8c089baee6b0007182236ac474"
     },
+    "web-research": {
+      "source": "langchain-ai/deepagents",
+      "sourceType": "github",
+      "skillPath": "libs/cli/examples/skills/web-research/SKILL.md",
+      "computedHash": "2b66d5db8c8d70474e70638f437f324fb3af3724b71bf8501e48c8004e70e677"
+    },
     "writing-clearly-and-concisely": {
       "source": "softaworks/agent-toolkit",
       "sourceType": "github",

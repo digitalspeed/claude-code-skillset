@@ -1,0 +1,7 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Personal research output — not part of the shared skill library
+research/
+database-diagram.excalidraw
